@@ -1,0 +1,16 @@
+D:\Saját Projektek\ProgAlap_Komplex\Komplex_Beadando\Komplex_Beadando\bin\Debug\net5.0\Komplex_Beadando.exe
+D:\Saját Projektek\ProgAlap_Komplex\Komplex_Beadando\Komplex_Beadando\bin\Debug\net5.0\Komplex_Beadando.deps.json
+D:\Saját Projektek\ProgAlap_Komplex\Komplex_Beadando\Komplex_Beadando\bin\Debug\net5.0\Komplex_Beadando.runtimeconfig.json
+D:\Saját Projektek\ProgAlap_Komplex\Komplex_Beadando\Komplex_Beadando\bin\Debug\net5.0\Komplex_Beadando.runtimeconfig.dev.json
+D:\Saját Projektek\ProgAlap_Komplex\Komplex_Beadando\Komplex_Beadando\bin\Debug\net5.0\Komplex_Beadando.dll
+D:\Saját Projektek\ProgAlap_Komplex\Komplex_Beadando\Komplex_Beadando\bin\Debug\net5.0\ref\Komplex_Beadando.dll
+D:\Saját Projektek\ProgAlap_Komplex\Komplex_Beadando\Komplex_Beadando\bin\Debug\net5.0\Komplex_Beadando.pdb
+D:\Saját Projektek\ProgAlap_Komplex\Komplex_Beadando\Komplex_Beadando\obj\Debug\net5.0\Komplex_Beadando.csprojAssemblyReference.cache
+D:\Saját Projektek\ProgAlap_Komplex\Komplex_Beadando\Komplex_Beadando\obj\Debug\net5.0\Komplex_Beadando.GeneratedMSBuildEditorConfig.editorconfig
+D:\Saját Projektek\ProgAlap_Komplex\Komplex_Beadando\Komplex_Beadando\obj\Debug\net5.0\Komplex_Beadando.AssemblyInfoInputs.cache
+D:\Saját Projektek\ProgAlap_Komplex\Komplex_Beadando\Komplex_Beadando\obj\Debug\net5.0\Komplex_Beadando.AssemblyInfo.cs
+D:\Saját Projektek\ProgAlap_Komplex\Komplex_Beadando\Komplex_Beadando\obj\Debug\net5.0\Komplex_Beadando.csproj.CoreCompileInputs.cache
+D:\Saját Projektek\ProgAlap_Komplex\Komplex_Beadando\Komplex_Beadando\obj\Debug\net5.0\Komplex_Beadando.dll
+D:\Saját Projektek\ProgAlap_Komplex\Komplex_Beadando\Komplex_Beadando\obj\Debug\net5.0\ref\Komplex_Beadando.dll
+D:\Saját Projektek\ProgAlap_Komplex\Komplex_Beadando\Komplex_Beadando\obj\Debug\net5.0\Komplex_Beadando.pdb
+D:\Saját Projektek\ProgAlap_Komplex\Komplex_Beadando\Komplex_Beadando\obj\Debug\net5.0\Komplex_Beadando.genruntimeconfig.cache
